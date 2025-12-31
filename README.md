@@ -15,26 +15,42 @@ Year	Version	Platform	Description
 # Repository Structure
 
 Kairen/
+
 │
+
 ├── android/
-│   └── kairen_prototype.py      # Android (QPython3L) - 2021
+
+│   └── kairen_prototype.py [ Android (QPython3L) - 2021 ]
+
 │
+
 ├── windows/
-│   └── kairenWindowsOS.py       # Windows CLI Assistant - 2022
+
+│   └── kairenWindowsOS.py [ Windows CLI Assistant - 2022 ]
+
 │
+
 ├── kairen_plus/
-│   └── kairenplus.py            # Full AI Assistant (GUI + LLM) - 2024
+
+│   └── kairenplus.py [ Full AI Assistant (GUI + LLM) - 2024 ]
+
 │
+
 └── README.md
+
 
 # Kairen Prototype (Android – 2021)
 
 File: kairen_prototype.py
+
 Platform: Android
+
 Environment: QPython3L + SL4A
+
 Developed During: Class 12
 
-✨ Features
+
+✨ Features : 
 
 Text-to-Speech (TTS)
 
@@ -48,7 +64,8 @@ Vibration control
 
 Menu-driven assistant logic
 
-🛠 Technologies Used
+
+🛠 Technologies Used :
 
 Python 3 (QPython3L)
 
@@ -56,18 +73,21 @@ SL4A (androidhelper)
 
 Android Text-to-Speech APIs
 
-📌 Note
+📌 [ Note : This version was written before formal CS education, purely driven by curiosity and experimentation. ]
 
-This version was written before formal CS education, purely driven by curiosity and experimentation.
 
 # Kairen for Windows OS (2022)
 
 File: kairenWindowsOS.py
+
 Platform: Windows
+
 Python Version: Python 3.x
+
 Developed After: Class 12
 
-✨ Improvements Over Android Version
+
+✨ Improvements Over Android Version :
 
 Platform-independent Python logic
 
@@ -77,20 +97,26 @@ Better input handling
 
 More stable execution
 
-🛠 Technologies Used
+
+🛠 Technologies Used :
 
 Python 3
 
 Standard libraries (datetime, random, etc.)
 
+
 # Kairen Plus — Full AI Assistant (2024)
 
 File: kairenplus.py
+
 Platform: Windows
+
 Python Version: Python 3.12
+
 Developed During: College (2nd Year)
 
-🚀 Major Features
+
+🚀 Major Features : 
 
 GUI-based interface
 
@@ -116,7 +142,8 @@ NLP processing
 
 Multithreading & async handling
 
-This version represents the transition from “script” to “software.”
+[ Note : This version represents the transition from “script” to “software.” ]
+
 
 # Purpose of This Repository
 
